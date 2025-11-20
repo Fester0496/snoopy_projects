@@ -1,0 +1,4 @@
+
+1) import modules
+2) ask user to set the alarm
+3) compare user's input with current time
