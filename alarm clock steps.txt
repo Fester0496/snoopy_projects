@@ -1,4 +1,9 @@
 
+Ενα προγραμμα που ζηταει απο τον χρηστη να ορίσει μια ώρα που
+θα χτυπήσει ενα ξυπνητήρι
+
+
 1) import modules
 2) ask user to set the alarm
 3) compare user's input with current time
+4) when time comes alarm goes off / print message
